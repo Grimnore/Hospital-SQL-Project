@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Analysis — SQL Project
+# 🏥 Hospital Data Analysis: SQL Project
 
 A beginner SQL project analyzing hospital data using PostgreSQL.
 
