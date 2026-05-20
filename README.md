@@ -28,3 +28,5 @@ A beginner SQL project analyzing hospital data using PostgreSQL.
 - Revenue analysis
 - Unpaid bills tracking
 - Gender & city-wise distribution
+
+I am gonna do some advanced stuff after this, hopefully
